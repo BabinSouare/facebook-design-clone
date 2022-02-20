@@ -1,3 +1,3 @@
 # facebook-design-clone
 
-facebook home screen design clone #React Native #styled-components
+facebook home screen design clone React Native styled-components
