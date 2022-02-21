@@ -1,5 +1,5 @@
 # Facebook clone
-Facebook design clone using React Native and Styled-components.
+Facebook design clone using React Native and Styled Components.
 
 This repository is a reproduction of the facebook design.
 You can clone it, test it to see the result, get inspiration from it or pull on if needed.
