@@ -6,7 +6,7 @@ You can clone it, test it to see the result, get inspiration from it or pull on 
 
 If you like this reproduction, please click on project star to encourage me.
 #
-### Facebook design clone Screens
+### Facebook design clone demo
 https://user-images.githubusercontent.com/16658222/154952555-62217204-2aa1-4d0e-8418-8fa3f258e687.mp4
 
 ## Installation
